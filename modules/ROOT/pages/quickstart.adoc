@@ -9,7 +9,7 @@ Of course, if this guide is not enough and things fail, you can always apply the
 
 == Prerequisites
 
-Start ensuring the prerequsites are satisfied:
+Start ensuring the prerequisites are satisfied:
 
 . xref:installation:download.adoc[Download and install `nuv`], the Nuvolaris CLI, picking version suitable for your environment. We support 64-bit versions of recent Windows, MacOS and major Linux distributions.
 
